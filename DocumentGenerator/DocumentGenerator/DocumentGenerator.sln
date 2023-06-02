@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocumentGenerator", "DocumentGenerator\DocumentGenerator.csproj", "{C4437DD5-20BE-4FF0-8966-7088241D9CA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocumentGenerator.WebAPI", "DocumentGenerator.WebAPI\DocumentGenerator.WebAPI.csproj", "{5220F3B8-3611-4B53-8DA6-4B47E09C3C58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4437DD5-20BE-4FF0-8966-7088241D9CA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4437DD5-20BE-4FF0-8966-7088241D9CA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4437DD5-20BE-4FF0-8966-7088241D9CA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4437DD5-20BE-4FF0-8966-7088241D9CA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5220F3B8-3611-4B53-8DA6-4B47E09C3C58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5220F3B8-3611-4B53-8DA6-4B47E09C3C58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5220F3B8-3611-4B53-8DA6-4B47E09C3C58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5220F3B8-3611-4B53-8DA6-4B47E09C3C58}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1D996BB-C495-459C-A237-6A126E513D1B}
+	EndGlobalSection
+EndGlobal

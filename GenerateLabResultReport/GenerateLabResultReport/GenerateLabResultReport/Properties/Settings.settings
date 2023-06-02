@@ -1,0 +1,48 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="GenerateLabResultReport.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="DOCUMENTGENERATOR_BASE_URI" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://localhost:54898/</Value>
+    </Setting>
+    <Setting Name="CONNECTION_STRING" Type="System.String" Scope="User">
+      <Value Profile="(Default)">MSSQLSERVER_CONNECTION_STRING</Value>
+    </Setting>
+    <Setting Name="TEMPLATE_PATH" Type="System.String" Scope="User">
+      <Value Profile="(Default)">TEMPLATE_FILE_PATH</Value>
+    </Setting>
+    <Setting Name="REGULAR_FONT_FILE_PATH" Type="System.String" Scope="User">
+      <Value Profile="(Default)">REGULAR_FONT_FILE_PATH</Value>
+    </Setting>
+    <Setting Name="ITALICS_FONT_FILE_PATH" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ITALICS_FONT_FILE_PATH</Value>
+    </Setting>
+    <Setting Name="BOLD_REGULAR_FONT_FILE_PATH" Type="System.String" Scope="User">
+      <Value Profile="(Default)">BOLD_REGULAR_FONT_FILE_PATH</Value>
+    </Setting>
+    <Setting Name="BOLD_ITALICS_FONT_FILE_PATH" Type="System.String" Scope="User">
+      <Value Profile="(Default)">BOLD_ITALICS_FONT_FILE_PATH</Value>
+    </Setting>
+    <Setting Name="DOCUMENT_VERSION_NO_AND_AMEND_QUERY" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SQL_QUERY_TO_GRAB_VERSION_NO_AND_AMENDED_STATUS</Value>
+    </Setting>
+    <Setting Name="REQUISITION_INFO_QUERY" Type="System.String" Scope="User">
+      <Value Profile="(Default)">REQUISITION_INFO</Value>
+    </Setting>
+    <Setting Name="RESULTS_BASE_QUERY" Type="System.String" Scope="User">
+      <Value Profile="(Default)">RESULTS_BASE</Value>
+    </Setting>
+    <Setting Name="PANEL_TESTS_QUERY" Type="System.String" Scope="User">
+      <Value Profile="(Default)">PANEL_TESTS</Value>
+    </Setting>
+    <Setting Name="FORMATTED_RESULTS_QUERY" Type="System.String" Scope="User">
+      <Value Profile="(Default)">FORMATTED_RESULTS</Value>
+    </Setting>
+    <Setting Name="MANUAL_RESULTS_QUERY" Type="System.String" Scope="User">
+      <Value Profile="(Default)">MANUAL_RESULTS</Value>
+    </Setting>
+    <Setting Name="PANEL_NAME_AND_PANEL_ID_QUERY" Type="System.String" Scope="User">
+      <Value Profile="(Default)">PANEL_NAME_AND_PANEL_ID</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
